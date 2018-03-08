@@ -1,3 +1,11 @@
+<a href="https://github.com/apirobot/django-vue-google-auth">
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/apirobot/django-vue-google-auth/master/other/preview.gif" alt="django-vue-google-auth">
+    </p>
+</a>
+
+---
+
 ## Description
 
 `django-vue-google-auth` shows how you can implement authentication through Google using **django & django rest framework** as a backend and **vue.js** as a frontend.
