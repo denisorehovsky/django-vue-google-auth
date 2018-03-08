@@ -1,0 +1,20 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+django = "*"
+djangorestframework = "*"
+django-rest-auth = "*"
+django-allauth = "*"
+djangorestframework-jwt = "*"
+django-cors-headers = "*"
+
+
+[dev-packages]
+
+"flake8" = "*"
